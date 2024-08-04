@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-03-27T02:08:26.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="wpntwra-7mAow8mx0Y2v" version="21.1.1" type="google">
+  <diagram name="Page-1" id="KtoG_uvEQNgs39HCUGmf">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aVh0nJCDAXzM_CrWFoUo-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Khách hàng&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="100" y="30" width="300" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="aVh0nJCDAXzM_CrWFoUo-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Trang web&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="520" y="30" width="300" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="aVh0nJCDAXzM_CrWFoUo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="aVh0nJCDAXzM_CrWFoUo-6" target="aVh0nJCDAXzM_CrWFoUo-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aVh0nJCDAXzM_CrWFoUo-6" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aVh0nJCDAXzM_CrWFoUo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="aVh0nJCDAXzM_CrWFoUo-9" target="aVh0nJCDAXzM_CrWFoUo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aVh0nJCDAXzM_CrWFoUo-9" value="&lt;ol style=&quot;list-style: none; margin: 14px 0px; padding: 0px 0px 0px 24px; color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(244, 245, 247);&quot;&gt;&lt;li style=&quot;line-height: 24px; margin: 0px; list-style: decimal; font-size: 14px;&quot;&gt;Khách hàng truy cập vào trang web&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="150" y="80" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aVh0nJCDAXzM_CrWFoUo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aVh0nJCDAXzM_CrWFoUo-10" target="aVh0nJCDAXzM_CrWFoUo-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aVh0nJCDAXzM_CrWFoUo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aVh0nJCDAXzM_CrWFoUo-10" target="aVh0nJCDAXzM_CrWFoUo-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aVh0nJCDAXzM_CrWFoUo-10" value="2. Hiển thị giao diện web" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="590" y="80" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aVh0nJCDAXzM_CrWFoUo-13" value="3. Khách hàng tìm kiếm sản phẩm trên thanh tìm kiếm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aVh0nJCDAXzM_CrWFoUo-14" value="4. Khách hàng tìm kiếm sản phẩm trong trang danh sách sản phẩm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="210" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
